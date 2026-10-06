@@ -37,7 +37,7 @@ class Entrenador:
 
 if __name__ == "__main__":
     ash = Entrenador("Ash")
-    ash.agregar_pokemon(Pokemon("Pikachu", "Ekectrico", 25))
+    ash.agregar_pokemon(Pokemon("Pikachu", "Electrico", 25))
     ash.agregar_pokemon(Pokemon("Charmander", "Fuego", 10))
     ash.equipo[0].subir_nivel()
     ash.mostrar_equipo()
