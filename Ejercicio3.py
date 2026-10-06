@@ -3,7 +3,7 @@ class Evolucion:
         self.nombre = nombre
         self.siguiente = None
 
-class PilaEvoluciones
+class PilaEvoluciones:
     def __init__(self):
         self.tope = None
 
@@ -34,7 +34,7 @@ class IteradorPilaEvoluciones:
     def __iter__(self):
         return self
 
-    def __next__(self)
+    def __next__(self):
         if self.actual is None:
             raise StopIteration
         valor = self.actual
