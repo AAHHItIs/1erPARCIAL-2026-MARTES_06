@@ -1,6 +1,6 @@
 # Algoritmos y Estructuras de Datos
 
-# 1erPARCIAL - JUEVES - 01/10/26 - Comisión 2 -
+# 1erPARCIAL - MARTES - 06/10/26 - Comisión 1 -
 
 
 
@@ -8,7 +8,7 @@
 
 ### 📌 **Modalidad**
 
-* 🗓️ **Fecha:** Jueves **01/10**
+* 🗓️ **Fecha:** Martes **06/10**
 * 🕖 **Disponibilidad:** desde las **08:30 hs** hasta las **14:15 h**.
 * ⏱️ **Duración máxima:** **3 horas y 30 minutos (3:30 h)** desde el momento en que bifurcan el repositorio.
 * 🧪 **Intentos:** Solo **1 (uno)**. 
