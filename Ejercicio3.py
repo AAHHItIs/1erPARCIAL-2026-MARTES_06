@@ -26,3 +26,17 @@ class PilaEvoluciones
     
     def __iter__(self):
         return IteradorPilaEvoluciones(self.tope)
+
+class IteradorPilaEvoluciones:
+    def __init__(self, tope: Evolucion):
+        self.actual = tope
+
+    def __iter__(self):
+        return self
+
+    def __next__(self)
+        if self.actual is None:
+            raise StopIteration
+        valor = self.actual
+        self.actual = self.actual.siguiente
+        return valor
